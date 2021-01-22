@@ -1,6 +1,12 @@
 # zed-code
 ZED Stereo Camera Code
 
+This code is based on the ZED C++ SDK and does not use ROS, which is why its in a different repo than ImmersiveInterface2.
+To integrate it into ISAACS the ZED ROS wrapper will need to be used. 
+
+3D Mapping Planning Doc: https://docs.google.com/document/d/1UF9w5l6qaanxyj5wSWAWRYyflIOXF0gGdvBvm6EOkEA/edit?usp=sharing
+
+
 ## zed
 
 
